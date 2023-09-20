@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/nanani1/smartbarrel/issues"
   },
-  "homepage": "https://github.com/nanani1/smartbarrel#readme"
+  "homepage": "https://github.com/nanani1/smartbarrel#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
 }
