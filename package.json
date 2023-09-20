@@ -1,0 +1,18 @@
+{
+  "name": "smartbarrel",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanani1/smartbarrel.git"
+  },
+  "author": "esmeralda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanani1/smartbarrel/issues"
+  },
+  "homepage": "https://github.com/nanani1/smartbarrel#readme"
+}
